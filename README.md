@@ -17,7 +17,7 @@ Excellent communication, interpersonal and analytical skills and a highly motiva
 
 Skills-
 Programming languages:    Java, XML, SQL ,HTML ,C++
-Web-Technologies:  	      J2EE, JDBC, JSP, Servlet, JavaBeans
+Web-Technologies:  	      J2EE, JDBC, JSP, Servlet
 Frameworks:               Spring Boot/MVC/JDBC/Core/Hibernate/JPA
 Databases:	              Elasticsearch, MongoDB, MySQL, Microsoft Access, Oracle 11,
 Servers and Services:     Apache Tomcat, WebLogic, RESTful API’s, SOAP, Microservices
